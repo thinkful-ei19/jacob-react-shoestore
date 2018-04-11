@@ -1,0 +1,20 @@
+.searchForm {
+    margin: 0 auto;
+    width: 650px;
+}
+
+.searchInput {
+    margin-top: 30px;
+    width: 650px;
+    height: 30px;
+    font-size: 2em;
+    text-align: center;
+}
+
+.searchBtn {
+    width: 150px;
+    height: 35px;
+    position: relative;
+    margin-top: 10px;
+    left: 250px;
+}

@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    font-family: 'Pacifico';
+    font-size: 3.4em;
+    color: black;
+}
+
+.header {
+    background-color: #aa80ff;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+}

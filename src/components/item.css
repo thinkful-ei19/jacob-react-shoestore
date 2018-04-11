@@ -1,0 +1,25 @@
+li {
+    display: inline-block;
+    width: 295px;
+    height: 380px;
+    border: solid 1px black;
+    text-align:center;
+    margin: 3px;
+    position:relative;
+}
+
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+    position: absolute;
+    z-index: 5;
+}
+
+.shoePrice {
+    top: 340px;
+    left: 100px;
+}
+
+.shoeDesc {
+    top: 280px;
+}
